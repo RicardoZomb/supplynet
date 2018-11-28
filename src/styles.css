@@ -6,3 +6,7 @@ body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
 .ui-form-wrapper {
   margin: 1.5%;
 }
+
+.ui-card-wrapper {
+  margin: 1%;
+}
